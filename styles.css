@@ -1,0 +1,37 @@
+nav img{
+        width : 280px;
+}
+nav  {
+    display: flex;
+    background-color: white;
+    width: 65%;
+    margin: 0 auto;
+    justify-content: space-between;
+    
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px  ;
+    
+}
+ ul li{
+    color:gray;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 65%;
+    margin: 0 auto;
+    
+}
+section div{    
+    display: flex;
+    gap: 50px;
+
+}
+section h1{
+    color: green;
+}
