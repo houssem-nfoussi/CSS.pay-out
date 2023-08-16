@@ -147,3 +147,7 @@ padding: 20px;
 .amp button:hover{
     background-color: blue;
 }
+footer p{
+    text-align: center;
+    font-weight: 230
+}
