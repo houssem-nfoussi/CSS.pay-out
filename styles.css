@@ -70,6 +70,9 @@ body {
 
     
 }
+.textt{
+    color: white;
+}
 .card3{
     background-color: #747474;
  
@@ -149,5 +152,5 @@ padding: 20px;
 }
 footer p{
     text-align: center;
-    font-weight: 230
+    font-weight: 250px
 }
